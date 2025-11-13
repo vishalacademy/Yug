@@ -1,13 +1,14 @@
 # Chapter: idk
 q. Express each number as a product of its prime factors: (i) 140 (ii) 156 (iii) 3825 (iv) 5005 (v) 7429 (2 marks)
 q. Find the LCM and HCF of the following pairs of integers (3 marks) 
-q. Check whether 6ⁿ can end with the digit 0 for any natural number n (1 mark) 
+q. Check whether 6ⁿ can end with the digit 0 for any natural number n (5 mark) 
 q. Prove that √2 is irrational (MCQ) {a)Using contradiction b)Using division c)Using proof d)Using logic}
 
 # Chapter: alien
 q. Find the zeroes of the polynomial f(x) = x² - 3x + 2 (MCQ) {a)1,2 b)2,3 c)1,3 d)0,1}
 q. What is the relationship between coefficients and zeroes of a polynomial (2 marks) 
 q. Divide the polynomial p(x) = x³ - 3x² + x + 2 by g(x) = x - 1 (3 marks) 
+
 
 
 
