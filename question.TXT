@@ -1,37 +1,13 @@
 # Chapter: idk
-q. Express each number as a product of its prime factors: (i) 140 (ii) 156 (iii) 3825 (iv) 5005 (v) 7429 (2 marks) {a)option1 b)option2 c)option3 d)option4}
-q. Find the LCM and HCF of the following pairs of integers (3 marks) {a)option1 b)option2 c)option3 d)option4}
+q. Express each number as a product of its prime factors: (i) 140 (ii) 156 (iii) 3825 (iv) 5005 (v) 7429 (2 marks)
+q. Find the LCM and HCF of the following pairs of integers (3 marks) 
 q. Check whether 6ⁿ can end with the digit 0 for any natural number n (1 mark) 
 q. Prove that √2 is irrational (MCQ) {a)Using contradiction b)Using division c)Using proof d)Using logic}
 
 # Chapter: alien
-q. Find the zeroes of the polynomial f(x) = x² - 3x + 2 (2 marks) {a)1,2 b)2,3 c)1,3 d)0,1}
-q. What is the relationship between coefficients and zeroes of a polynomial (Easy) {a)Sum b)Product c)Both sum and product d)Ratio}
-q. Divide the polynomial p(x) = x³ - 3x² + x + 2 by g(x) = x - 1 (3 marks) {a)x²-2x-1 b)x²+2x+1 c)x²-3x-2 d)x²+3x+2}
+q. Find the zeroes of the polynomial f(x) = x² - 3x + 2 (MCQ) {a)1,2 b)2,3 c)1,3 d)0,1}
+q. What is the relationship between coefficients and zeroes of a polynomial (2 marks) 
+q. Divide the polynomial p(x) = x³ - 3x² + x + 2 by g(x) = x - 1 (3 marks) 
 
-# Chapter: Real Numbers
-q. Express each number as a product of its prime factors: (i) 140 (ii) 156 (iii) 3825 (iv) 5005 (v) 7429 (2 marks)
-q. Find the LCM and HCF of the following pairs of integers and verify that LCM × HCF = product of the two numbers. (3 marks)
-q. Check whether 6ⁿ can end with the digit 0 for any natural number n. (1 mark)
-q. Prove that √2 is irrational (Hard)
 
-# Chapter: Polynomials
-q. Find the zeroes of the polynomial f(x) = x² - 3x + 2 (2 marks)
-q. What is the relationship between coefficients and zeroes of a polynomial? (Easy)
-q. Divide the polynomial p(x) = x³ - 3x² + x + 2 by g(x) = x - 1 (3 marks)
-q. If α and β are the zeroes of ax² + bx + c, find α + β and αβ (2 marks)
-
-# Chapter: Linear Equations in Two Variables
-q. Solve the system of equations: 2x + 3y = 8 and x - y = 1 (2 marks)
-q. Draw the graph of the linear equation 2x + 3y = 6 (3 marks)
-q. A boat takes 2 hours to go 15 km upstream and 1 hour to return. Find the speed of boat in still water. (5 marks)
-q. Check if x = 2, y = 3 is a solution of 3x - 2y = 0 (Easy)
-
-# Chapter: Quadratic Equations
-q. Solve x² - 5x + 6 = 0 using factorization (2 marks)
-q. Find the discriminant of 2x² - 4x + 3 = 0 and state the nature of roots (2 marks)
-q. A quadratic polynomial with zeroes -2 and 3 is: (MCQ)
-q. The sum of a number and its reciprocal is 10/3. Find the number. (3 marks)
-
-q. Solve the quadratic equation using the quadratic formula: x² - 7x + 10 = 0 (2 marks)
 
