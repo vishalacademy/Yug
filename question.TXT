@@ -1,7 +1,7 @@
 # Chapter: idk
 q. Express each number as a product of its prime factors: (i) 140 (ii) 156 (iii) 3825 (iv) 5005 (v) 7429 (2 marks) {a)option1 b)option2 c)option3 d)option4}
 q. Find the LCM and HCF of the following pairs of integers (3 marks) {a)option1 b)option2 c)option3 d)option4}
-q. Check whether 6ⁿ can end with the digit 0 for any natural number n (1 mark) {a)Yes b)No c)Maybe d)Cannot determine}
+q. Check whether 6ⁿ can end with the digit 0 for any natural number n (1 mark) 
 q. Prove that √2 is irrational (MCQ) {a)Using contradiction b)Using division c)Using proof d)Using logic}
 
 # Chapter: alien
@@ -34,3 +34,4 @@ q. A quadratic polynomial with zeroes -2 and 3 is: (MCQ)
 q. The sum of a number and its reciprocal is 10/3. Find the number. (3 marks)
 
 q. Solve the quadratic equation using the quadratic formula: x² - 7x + 10 = 0 (2 marks)
+
